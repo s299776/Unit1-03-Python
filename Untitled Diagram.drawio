@@ -1,1 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T16:10:37.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="14.6.9" etag="5XvrQL_QgYl_1_XB8GUv" type="github"><diagram id="vQxJJNaWtaXB5mGtyHiw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-03T16:16:24.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="S8GZ1jUYPOE0cc_-1cv1" version="14.6.9" type="github">
+  <diagram id="vQxJJNaWtaXB5mGtyHiw" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oDda3-v0TxFA8qHJeSE3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oDda3-v0TxFA8qHJeSE3-1" target="oDda3-v0TxFA8qHJeSE3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oDda3-v0TxFA8qHJeSE3-1" value="I want to calcualte the colume and surface area of a shape then print it to the user" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oDda3-v0TxFA8qHJeSE3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oDda3-v0TxFA8qHJeSE3-2" target="oDda3-v0TxFA8qHJeSE3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oDda3-v0TxFA8qHJeSE3-2" value="First import needed modules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oDda3-v0TxFA8qHJeSE3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oDda3-v0TxFA8qHJeSE3-4" target="oDda3-v0TxFA8qHJeSE3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oDda3-v0TxFA8qHJeSE3-4" value="Find out how to calculate these two things for a dodecahedron" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oDda3-v0TxFA8qHJeSE3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oDda3-v0TxFA8qHJeSE3-6" target="oDda3-v0TxFA8qHJeSE3-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="120" />
+              <mxPoint x="145" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oDda3-v0TxFA8qHJeSE3-6" value="write the math into the program" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oDda3-v0TxFA8qHJeSE3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oDda3-v0TxFA8qHJeSE3-8" target="oDda3-v0TxFA8qHJeSE3-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oDda3-v0TxFA8qHJeSE3-8" value="Firgure out how to user the user input to costomize the output so that it cacluates it within the perameters" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="140" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oDda3-v0TxFA8qHJeSE3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oDda3-v0TxFA8qHJeSE3-10" target="oDda3-v0TxFA8qHJeSE3-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oDda3-v0TxFA8qHJeSE3-10" value="Ask user for their input and save it to a variable" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="145" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oDda3-v0TxFA8qHJeSE3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oDda3-v0TxFA8qHJeSE3-12" target="oDda3-v0TxFA8qHJeSE3-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oDda3-v0TxFA8qHJeSE3-12" value="use their input and do the math" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="145" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oDda3-v0TxFA8qHJeSE3-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oDda3-v0TxFA8qHJeSE3-14" target="oDda3-v0TxFA8qHJeSE3-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="220" />
+              <mxPoint x="330" y="220" />
+              <mxPoint x="330" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oDda3-v0TxFA8qHJeSE3-14" value="print the output to the screen in a user understandable way" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="145" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oDda3-v0TxFA8qHJeSE3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oDda3-v0TxFA8qHJeSE3-16" target="oDda3-v0TxFA8qHJeSE3-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oDda3-v0TxFA8qHJeSE3-16" value="make sure the code is acceptable and commented properly" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oDda3-v0TxFA8qHJeSE3-17" value="ALL DONE!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
